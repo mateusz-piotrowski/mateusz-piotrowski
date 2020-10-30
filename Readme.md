@@ -5,5 +5,9 @@ I like learn new things and meet new technologies.
 
 Currently I working on Powershell script which will automate Windows 10 clean environment setup.
 
+## GitHub Stats
+
+[![mateusz-piotrowski github stats](https://github-readme-stats.vercel.app/api?username=mateusz-piotrowski)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Find me around the internet
 - <a href="https://mateusz-piotrowski.github.io/"> mateusz-piotrowski.github.io </a>
