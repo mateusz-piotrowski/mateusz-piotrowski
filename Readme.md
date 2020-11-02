@@ -14,3 +14,5 @@ Currently I working on Powershell script which will automate Windows 10 clean en
 ## GitHub Stats
 
 [![mateusz github stats](https://github-readme-stats.vercel.app/api?username=mateusz-piotrowski&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusz-piotrowski)](https://github.com/anuraghazra/github-readme-stats)
