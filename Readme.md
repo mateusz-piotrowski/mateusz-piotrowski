@@ -7,7 +7,7 @@ Currently I working on Powershell script which will automate Windows 10 clean en
 
 ## GitHub Stats
 
-[![mateusz github stats](https://github-readme-stats.vercel.app/api?username=mateusz-piotrowski&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![mateusz github stats](https://github-readme-stats.vercel.app/api?username=mateusz-piotrowski&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me around the internet
 - <a href="https://mateusz-piotrowski.github.io/"> mateusz-piotrowski.github.io </a>
