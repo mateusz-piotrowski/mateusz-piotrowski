@@ -3,7 +3,7 @@
 I'm a hardware enginner, software developer and systems administrator in one person.\
 I like learn new things and meet new technologies.
 
-Currently, I working on a Bash script that will automate Ubuntu clean environment setup.
+Currently, I working on a **basic** branch of [mac-installer](https://github.com/mateusz-piotrowski/mac-installer) project.
 
 ## Find me around the internet
 
