@@ -8,7 +8,7 @@ Currently, I working on a **basic** branch of [mac-installer](https://github.com
 ## Find me around the internet
 
 - <a href="https://mateusz-piotrowski.github.io/"> mateusz-piotrowski.github.io </a>
-
+- <a href="https://twitter.com/mateusz7pi"> mateusz7pi </a>
 
 ## GitHub Stats
 
