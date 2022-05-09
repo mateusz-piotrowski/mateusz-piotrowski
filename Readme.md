@@ -3,7 +3,7 @@
 I'm a hardware enginner, software developer and systems administrator in one person.\
 I like learn new things and meet new technologies.
 
-Currently, I working on a **basic** branch of [mac-installer](https://github.com/mateusz-piotrowski/mac-installer) project.
+Currently, I working on a [sql-teaching-tutorial](https://github.com/mateusz-piotrowski/sql-teaching-tutorial).
 
 ## Find me around the internet
 
