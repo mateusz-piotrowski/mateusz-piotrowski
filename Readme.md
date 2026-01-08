@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Mateusz Piotrowski! 👋</h1>
+  <h1>Hi there, I'm Mateusz! 👋</h1>
   <p>
     <strong>Software Engineer | Open Source Enthusiast | Tech Explorer</strong>
   </p>
