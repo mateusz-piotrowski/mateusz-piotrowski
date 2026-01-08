@@ -5,8 +5,8 @@
   </p>
 
   <p>
-    <a href="https://x.com/mateusz_piotrowski" target="_blank">
-      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+    <a href="https://x.com/mateusz7pi" target="_blank">
+      <img src="https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="x" />
     </a>
     <a href="https://linkedin.com/in/mateusz7piotrowski" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
