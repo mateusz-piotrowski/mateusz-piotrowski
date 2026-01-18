@@ -5,10 +5,10 @@
   </p>
 
   <p>
-    <a href="https://x.com/mateusz7pi" target="_blank">
+    <a href="https://x.com/mateusz7pi" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="x" />
     </a>
-    <a href="https://linkedin.com/in/mateusz7piotrowski" target="_blank">
+    <a href="https://linkedin.com/in/mateusz7piotrowski" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </a>
     <a href="mailto:mateusz7piotrowski@gmail.com">
@@ -33,239 +33,239 @@ I'm a passionate pragmatic developer who loves building problem-solving applicat
 ### 🛠️ Languages and Tools
 
 <div align="center">
-  <a href="https://www.ableton.com/" target="_blank" title="Ableton"><img src="https://skillicons.dev/icons?i=ableton" alt="Ableton" /></a>
-  <a href="https://www.w3.org/TR/activitypub/" target="_blank" title="ActivityPub"><img src="https://skillicons.dev/icons?i=activitypub" alt="ActivityPub" /></a>
-  <a href="https://actix.rs/" target="_blank" title="Actix"><img src="https://skillicons.dev/icons?i=actix" alt="Actix" /></a>
-  <a href="https://adonisjs.com/" target="_blank" title="AdonisJS"><img src="https://skillicons.dev/icons?i=adonis" alt="AdonisJS" /></a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" title="After Effects"><img src="https://skillicons.dev/icons?i=ae" alt="After Effects" /></a>
-  <a href="https://aiscript.dev/" target="_blank" title="AiScript"><img src="https://skillicons.dev/icons?i=aiscript" alt="AiScript" /></a>
-  <a href="https://alpinejs.dev/" target="_blank" title="Alpine.js"><img src="https://skillicons.dev/icons?i=alpinejs" alt="Alpine.js" /></a>
-  <a href="https://www.anaconda.com/" target="_blank" title="Anaconda"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a>
-  <a href="https://developer.android.com/studio" target="_blank" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" /></a>
-  <a href="https://angular.io/" target="_blank" title="Angular"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a>
-  <a href="https://www.ansible.com/" target="_blank" title="Ansible"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" /></a>
-  <a href="https://www.apollographql.com/" target="_blank" title="Apollo"><img src="https://skillicons.dev/icons?i=apollo" alt="Apollo" /></a>
-  <a href="https://www.apple.com/" target="_blank" title="Apple"><img src="https://skillicons.dev/icons?i=apple" alt="Apple" /></a>
-  <a href="https://appwrite.io/" target="_blank" title="Appwrite"><img src="https://skillicons.dev/icons?i=appwrite" alt="Appwrite" /></a>
-  <a href="https://archlinux.org/" target="_blank" title="Arch Linux"><img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" /></a>
-  <a href="https://www.arduino.cc/" target="_blank" title="Arduino"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" /></a>
-  <a href="https://astro.build/" target="_blank" title="Astro"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
-  <a href="https://atom.io/" target="_blank" title="Atom"><img src="https://skillicons.dev/icons?i=atom" alt="Atom" /></a>
-  <a href="https://www.adobe.com/products/audition.html" target="_blank" title="Audition"><img src="https://skillicons.dev/icons?i=au" alt="Audition" /></a>
-  <a href="https://www.autodesk.com/products/autocad/" target="_blank" title="AutoCAD"><img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD" /></a>
-  <a href="https://aws.amazon.com/" target="_blank" title="AWS"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
-  <a href="https://www.azul.com/" target="_blank" title="Azul"><img src="https://skillicons.dev/icons?i=azul" alt="Azul" /></a>
-  <a href="https://azure.microsoft.com/" target="_blank" title="Azure"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>
-  <a href="https://babeljs.io/" target="_blank" title="Babel"><img src="https://skillicons.dev/icons?i=babel" alt="Babel" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
-  <a href="https://bevyengine.org/" target="_blank" title="Bevy"><img src="https://skillicons.dev/icons?i=bevy" alt="Bevy" /></a>
-  <a href="https://bitbucket.org/" target="_blank" title="Bitbucket"><img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" /></a>
-  <a href="https://www.blender.org/" target="_blank" title="Blender"><img src="https://skillicons.dev/icons?i=blender" alt="Blender" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
-  <a href="https://www.freebsd.org/" target="_blank" title="FreeBSD"><img src="https://skillicons.dev/icons?i=bsd" alt="FreeBSD" /></a>
-  <a href="https://bun.sh/" target="_blank" title="Bun"><img src="https://skillicons.dev/icons?i=bun" alt="Bun" /></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
-  <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank" title="C#"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
-  <a href="https://crystal-lang.org/" target="_blank" title="Crystal"><img src="https://skillicons.dev/icons?i=crystal" alt="Crystal" /></a>
-  <a href="https://cassandra.apache.org/" target="_blank" title="Apache Cassandra"><img src="https://skillicons.dev/icons?i=cassandra" alt="Apache Cassandra" /></a>
-  <a href="https://www.jetbrains.com/clion/" target="_blank" title="CLion"><img src="https://skillicons.dev/icons?i=clion" alt="CLion" /></a>
-  <a href="https://clojure.org/" target="_blank" title="Clojure"><img src="https://skillicons.dev/icons?i=clojure" alt="Clojure" /></a>
-  <a href="https://www.cloudflare.com/" target="_blank" title="Cloudflare"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></a>
-  <a href="https://cmake.org/" target="_blank" title="CMake"><img src="https://skillicons.dev/icons?i=cmake" alt="CMake" /></a>
-  <a href="https://codepen.io/" target="_blank" title="CodePen"><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" /></a>
-  <a href="https://coffeescript.org/" target="_blank" title="CoffeeScript"><img src="https://skillicons.dev/icons?i=coffeescript" alt="CoffeeScript" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-  <a href="https://www.cypress.io/" target="_blank" title="Cypress"><img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" /></a>
-  <a href="https://d3js.org/" target="_blank" title="D3.js"><img src="https://skillicons.dev/icons?i=d3" alt="D3.js" /></a>
-  <a href="https://dart.dev/" target="_blank" title="Dart"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
-  <a href="https://www.debian.org/" target="_blank" title="Debian"><img src="https://skillicons.dev/icons?i=debian" alt="Debian" /></a>
-  <a href="https://deno.land/" target="_blank" title="Deno"><img src="https://skillicons.dev/icons?i=deno" alt="Deno" /></a>
-  <a href="https://dev.to/" target="_blank" title="Dev.to"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" /></a>
-  <a href="https://discord.com/" target="_blank" title="Discord"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
-  <a href="https://discord.js.org/" target="_blank" title="Discord.js"><img src="https://skillicons.dev/icons?i=discordjs" alt="Discord.js" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank" title="Django"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
-  <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" /></a>
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank" title="DynamoDB"><img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" /></a>
-  <a href="https://www.eclipse.org/" target="_blank" title="Eclipse"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" /></a>
-  <a href="https://www.elastic.co/elasticsearch/" target="_blank" title="Elasticsearch"><img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" /></a>
-  <a href="https://www.electronjs.org/" target="_blank" title="Electron"><img src="https://skillicons.dev/icons?i=electron" alt="Electron" /></a>
-  <a href="https://elixir-lang.org/" target="_blank" title="Elixir"><img src="https://skillicons.dev/icons?i=elixir" alt="Elixir" /></a>
-  <a href="https://elysia.sh/" target="_blank" title="Elysia"><img src="https://skillicons.dev/icons?i=elysia" alt="Elysia" /></a>
-  <a href="https://www.gnu.org/software/emacs/" target="_blank" title="Emacs"><img src="https://skillicons.dev/icons?i=emacs" alt="Emacs" /></a>
-  <a href="https://emberjs.com/" target="_blank" title="Ember.js"><img src="https://skillicons.dev/icons?i=ember" alt="Ember.js" /></a>
-  <a href="https://emotion.sh/" target="_blank" title="Emotion"><img src="https://skillicons.dev/icons?i=emotion" alt="Emotion" /></a>
-  <a href="https://expressjs.com/" target="_blank" title="Express"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>
-  <a href="https://www.w3.org/TR/activitypub/" target="_blank" title="Fediverse"><img src="https://skillicons.dev/icons?i=fediverse" alt="Fediverse" /></a>
-  <a href="https://www.figma.com/" target="_blank" title="Figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
-  <a href="https://firebase.google.com/" target="_blank" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
-  <a href="https://flutter.dev/" target="_blank" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
-  <a href="https://www.forth.com/" target="_blank" title="Forth"><img src="https://skillicons.dev/icons?i=forth" alt="Forth" /></a>
-  <a href="https://fortran-lang.org/" target="_blank" title="Fortran"><img src="https://skillicons.dev/icons?i=fortran" alt="Fortran" /></a>
-  <a href="https://www.yoyogames.com/gamemaker" target="_blank" title="GameMaker Studio"><img src="https://skillicons.dev/icons?i=gamemakerstudio" alt="GameMaker Studio" /></a>
-  <a href="https://www.gatsbyjs.com/" target="_blank" title="Gatsby"><img src="https://skillicons.dev/icons?i=gatsby" alt="Gatsby" /></a>
-  <a href="https://cloud.google.com/" target="_blank" title="Google Cloud"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" /></a>
-  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://github.com/" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="https://github.com/features/actions" target="_blank" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
-  <a href="https://gitlab.com/" target="_blank" title="GitLab"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /></a>
-  <a href="https://www.gmail.com/" target="_blank" title="Gmail"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
-  <a href="https://cucumber.io/docs/gherkin/" target="_blank" title="Gherkin"><img src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin" /></a>
-  <a href="https://go.dev/" target="_blank" title="Go"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
-  <a href="https://gradle.org/" target="_blank" title="Gradle"><img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" /></a>
-  <a href="https://godotengine.org/" target="_blank" title="Godot"><img src="https://skillicons.dev/icons?i=godot" alt="Godot" /></a>
-  <a href="https://grafana.com/" target="_blank" title="Grafana"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" /></a>
-  <a href="https://graphql.org/" target="_blank" title="GraphQL"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></a>
-  <a href="https://www.gtk.org/" target="_blank" title="GTK"><img src="https://skillicons.dev/icons?i=gtk" alt="GTK" /></a>
-  <a href="https://gulpjs.com/" target="_blank" title="Gulp"><img src="https://skillicons.dev/icons?i=gulp" alt="Gulp" /></a>
-  <a href="https://www.haskell.org/" target="_blank" title="Haskell"><img src="https://skillicons.dev/icons?i=haskell" alt="Haskell" /></a>
-  <a href="https://haxe.org/" target="_blank" title="Haxe"><img src="https://skillicons.dev/icons?i=haxe" alt="Haxe" /></a>
-  <a href="https://haxeflixel.com/" target="_blank" title="HaxeFlixel"><img src="https://skillicons.dev/icons?i=haxeflixel" alt="HaxeFlixel" /></a>
-  <a href="https://www.heroku.com/" target="_blank" title="Heroku"><img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" /></a>
-  <a href="https://hibernate.org/" target="_blank" title="Hibernate"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" /></a>
-  <a href="https://html.spec.whatwg.org/" target="_blank" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-  <a href="https://htmx.org/" target="_blank" title="HTMX"><img src="https://skillicons.dev/icons?i=htmx" alt="HTMX" /></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" title="IntelliJ IDEA"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></a>
-  <a href="https://www.instagram.com/" target="_blank" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-  <a href="https://ipfs.tech/" target="_blank" title="IPFS"><img src="https://skillicons.dev/icons?i=ipfs" alt="IPFS" /></a>
-  <a href="https://www.java.com/" target="_blank" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-  <a href="https://www.jenkins.io/" target="_blank" title="Jenkins"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" /></a>
-  <a href="https://jestjs.io/" target="_blank" title="Jest"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" /></a>
-  <a href="https://jquery.com/" target="_blank" title="jQuery"><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" /></a>
-  <a href="https://kafka.apache.org/" target="_blank" title="Apache Kafka"><img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka" /></a>
-  <a href="https://www.kali.org/" target="_blank" title="Kali Linux"><img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" /></a>
-  <a href="https://kotlinlang.org/" target="_blank" title="Kotlin"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
-  <a href="https://ktor.io/" target="_blank" title="Ktor"><img src="https://skillicons.dev/icons?i=ktor" alt="Ktor" /></a>
-  <a href="https://kubernetes.io/" target="_blank" title="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
-  <a href="https://laravel.com/" target="_blank" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
-  <a href="https://www.latex-project.org/" target="_blank" title="LaTeX"><img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" /></a>
-  <a href="https://lesscss.org/" target="_blank" title="Less"><img src="https://skillicons.dev/icons?i=less" alt="Less" /></a>
-  <a href="https://www.linkedin.com/" target="_blank" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://www.linux.org/" target="_blank" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
-  <a href="https://lit.dev/" target="_blank" title="Lit"><img src="https://skillicons.dev/icons?i=lit" alt="Lit" /></a>
-  <a href="https://www.lua.org/" target="_blank" title="Lua"><img src="https://skillicons.dev/icons?i=lua" alt="Lua" /></a>
-  <a href="https://www.markdownguide.org/" target="_blank" title="Markdown"><img src="https://skillicons.dev/icons?i=md" alt="Markdown" /></a>
-  <a href="https://mastodon.social/" target="_blank" title="Mastodon"><img src="https://skillicons.dev/icons?i=mastodon" alt="Mastodon" /></a>
-  <a href="https://mui.com/" target="_blank" title="Material-UI"><img src="https://skillicons.dev/icons?i=materialui" alt="Material-UI" /></a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="MATLAB"><img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" /></a>
-  <a href="https://maven.apache.org/" target="_blank" title="Maven"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" /></a>
-  <a href="https://www.mint-lang.dev/" target="_blank" title="Mint"><img src="https://skillicons.dev/icons?i=mint" alt="Mint" /></a>
-  <a href="https://misskey.io/" target="_blank" title="Misskey"><img src="https://skillicons.dev/icons?i=misskey" alt="Misskey" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-  <a href="https://neovim.io/" target="_blank" title="Neovim"><img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" /></a>
-  <a href="https://nestjs.com/" target="_blank" title="NestJS"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /></a>
-  <a href="https://www.netlify.com/" target="_blank" title="Netlify"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /></a>
-  <a href="https://nextjs.org/" target="_blank" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
-  <a href="https://nginx.org/" target="_blank" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
-  <a href="https://nim-lang.org/" target="_blank" title="Nim"><img src="https://skillicons.dev/icons?i=nim" alt="Nim" /></a>
-  <a href="https://nixos.org/" target="_blank" title="NixOS"><img src="https://skillicons.dev/icons?i=nix" alt="NixOS" /></a>
-  <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-  <a href="https://www.notion.so/" target="_blank" title="Notion"><img src="https://skillicons.dev/icons?i=notion" alt="Notion" /></a>
-  <a href="https://www.npmjs.com/" target="_blank" title="npm"><img src="https://skillicons.dev/icons?i=npm" alt="npm" /></a>
-  <a href="https://nuxt.com/" target="_blank" title="Nuxt.js"><img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt.js" /></a>
-  <a href="https://obsidian.md/" target="_blank" title="Obsidian"><img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" /></a>
-  <a href="https://ocaml.org/" target="_blank" title="OCaml"><img src="https://skillicons.dev/icons?i=ocaml" alt="OCaml" /></a>
-  <a href="https://www.gnu.org/software/octave/" target="_blank" title="Octave"><img src="https://skillicons.dev/icons?i=octave" alt="Octave" /></a>
-  <a href="https://opencv.org/" target="_blank" title="OpenCV"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" /></a>
-  <a href="https://www.openshift.com/" target="_blank" title="OpenShift"><img src="https://skillicons.dev/icons?i=openshift" alt="OpenShift" /></a>
-  <a href="https://www.openstack.org/" target="_blank" title="OpenStack"><img src="https://skillicons.dev/icons?i=openstack" alt="OpenStack" /></a>
-  <a href="https://p5js.org/" target="_blank" title="p5.js"><img src="https://skillicons.dev/icons?i=p5js" alt="p5.js" /></a>
-  <a href="https://www.perl.org/" target="_blank" title="Perl"><img src="https://skillicons.dev/icons?i=perl" alt="Perl" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" title="Photoshop"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" /></a>
-  <a href="https://www.php.net/" target="_blank" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
-  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" title="PhpStorm"><img src="https://skillicons.dev/icons?i=phpstorm" alt="PhpStorm" /></a>
-  <a href="https://pinia.vuejs.org/" target="_blank" title="Pinia"><img src="https://skillicons.dev/icons?i=pinia" alt="Pinia" /></a>
-  <a href="https://pkl-lang.org/" target="_blank" title="Pkl"><img src="https://skillicons.dev/icons?i=pkl" alt="Pkl" /></a>
-  <a href="https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs" target="_blank" title="Plan 9"><img src="https://skillicons.dev/icons?i=plan9" alt="Plan 9" /></a>
-  <a href="https://www.planetscale.com/" target="_blank" title="PlanetScale"><img src="https://skillicons.dev/icons?i=planetscale" alt="PlanetScale" /></a>
-  <a href="https://pnpm.io/" target="_blank" title="pnpm"><img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-  <a href="https://www.postman.com/" target="_blank" title="Postman"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
-  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" title="Premiere"><img src="https://skillicons.dev/icons?i=pr" alt="Premiere" /></a>
-  <a href="https://www.prisma.io/" target="_blank" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" /></a>
-  <a href="https://processing.org/" target="_blank" title="Processing"><img src="https://skillicons.dev/icons?i=processing" alt="Processing" /></a>
-  <a href="https://prometheus.io/" target="_blank" title="Prometheus"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" /></a>
-  <a href="https://pugjs.org/" target="_blank" title="Pug"><img src="https://skillicons.dev/icons?i=pug" alt="Pug" /></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" title="PyCharm"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /></a>
-  <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
-  <a href="https://pytorch.org/" target="_blank" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>
-  <a href="https://www.qt.io/" target="_blank" title="Qt"><img src="https://skillicons.dev/icons?i=qt" alt="Qt" /></a>
-  <a href="https://www.r-project.org/" target="_blank" title="R"><img src="https://skillicons.dev/icons?i=r" alt="R" /></a>
-  <a href="https://www.rabbitmq.com/" target="_blank" title="RabbitMQ"><img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" /></a>
-  <a href="https://rubyonrails.org/" target="_blank" title="Ruby on Rails"><img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" /></a>
-  <a href="https://www.raspberrypi.org/" target="_blank" title="Raspberry Pi"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" /></a>
-  <a href="https://react.dev/" target="_blank" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://reactivex.io/" target="_blank" title="ReactiveX"><img src="https://skillicons.dev/icons?i=reactivex" alt="ReactiveX" /></a>
-  <a href="https://www.redhat.com/" target="_blank" title="Red Hat"><img src="https://skillicons.dev/icons?i=redhat" alt="Red Hat" /></a>
-  <a href="https://redis.io/" target="_blank" title="Redis"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
-  <a href="https://redux.js.org/" target="_blank" title="Redux"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>
-  <a href="https://www.regular-expressions.info/" target="_blank" title="Regex"><img src="https://skillicons.dev/icons?i=regex" alt="Regex" /></a>
-  <a href="https://remix.run/" target="_blank" title="Remix"><img src="https://skillicons.dev/icons?i=remix" alt="Remix" /></a>
-  <a href="https://replit.com/" target="_blank" title="Replit"><img src="https://skillicons.dev/icons?i=replit" alt="Replit" /></a>
-  <a href="https://www.jetbrains.com/rider/" target="_blank" title="Rider"><img src="https://skillicons.dev/icons?i=rider" alt="Rider" /></a>
-  <a href="https://www.roblox.com/create" target="_blank" title="Roblox Studio"><img src="https://skillicons.dev/icons?i=robloxstudio" alt="Roblox Studio" /></a>
-  <a href="https://www.rocketlanguage.org/" target="_blank" title="Rocket"><img src="https://skillicons.dev/icons?i=rocket" alt="Rocket" /></a>
-  <a href="https://rollupjs.org/" target="_blank" title="Rollup"><img src="https://skillicons.dev/icons?i=rollupjs" alt="Rollup" /></a>
-  <a href="https://www.ros.org/" target="_blank" title="ROS"><img src="https://skillicons.dev/icons?i=ros" alt="ROS" /></a>
-  <a href="https://www.ruby-lang.org/" target="_blank" title="Ruby"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" /></a>
-  <a href="https://www.rust-lang.org/" target="_blank" title="Rust"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
-  <a href="https://sass-lang.com/" target="_blank" title="Sass"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" /></a>
-  <a href="https://spring.io/" target="_blank" title="Spring"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" /></a>
-  <a href="https://www.sqlite.org/" target="_blank" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
-  <a href="https://stackoverflow.com/" target="_blank" title="Stack Overflow"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" /></a>
-  <a href="https://styled-components.com/" target="_blank" title="Styled Components"><img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components" /></a>
-  <a href="https://www.sublimetext.com/" target="_blank" title="Sublime Text"><img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text" /></a>
-  <a href="https://supabase.com/" target="_blank" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
-  <a href="https://www.scala-lang.org/" target="_blank" title="Scala"><img src="https://skillicons.dev/icons?i=scala" alt="Scala" /></a>
-  <a href="https://scikit-learn.org/" target="_blank" title="Scikit-Learn"><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" /></a>
-  <a href="https://www.selenium.dev/" target="_blank" title="Selenium"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" /></a>
-  <a href="https://sentry.io/" target="_blank" title="Sentry"><img src="https://skillicons.dev/icons?i=sentry" alt="Sentry" /></a>
-  <a href="https://sequelize.org/" target="_blank" title="Sequelize"><img src="https://skillicons.dev/icons?i=sequelize" alt="Sequelize" /></a>
-  <a href="https://www.sketchup.com/" target="_blank" title="SketchUp"><img src="https://skillicons.dev/icons?i=sketchup" alt="SketchUp" /></a>
-  <a href="https://soliditylang.org/" target="_blank" title="Solidity"><img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" /></a>
-  <a href="https://www.solidjs.com/" target="_blank" title="Solid.js"><img src="https://skillicons.dev/icons?i=solidjs" alt="Solid.js" /></a>
-  <a href="https://svelte.dev/" target="_blank" title="Svelte"><img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" /></a>
-  <a href="https://www.w3.org/Graphics/SVG/" target="_blank" title="SVG"><img src="https://skillicons.dev/icons?i=svg" alt="SVG" /></a>
-  <a href="https://developer.apple.com/swift/" target="_blank" title="Swift"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" /></a>
-  <a href="https://symfony.com/" target="_blank" title="Symfony"><img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
-  <a href="https://tauri.app/" target="_blank" title="Tauri"><img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></a>
-  <a href="https://www.terraform.io/" target="_blank" title="Terraform"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
-  <a href="https://threejs.org/" target="_blank" title="Three.js"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
-  <a href="https://ubuntu.com/" target="_blank" title="Ubuntu"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /></a>
-  <a href="https://unity.com/" target="_blank" title="Unity"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" /></a>
-  <a href="https://www.unrealengine.com/" target="_blank" title="Unreal Engine"><img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" /></a>
-  <a href="https://vlang.io/" target="_blank" title="V"><img src="https://skillicons.dev/icons?i=v" alt="V" /></a>
-  <a href="https://wiki.gnome.org/Projects/Vala" target="_blank" title="Vala"><img src="https://skillicons.dev/icons?i=vala" alt="Vala" /></a>
-  <a href="https://vercel.com/" target="_blank" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
-  <a href="https://www.vim.org/" target="_blank" title="Vim"><img src="https://skillicons.dev/icons?i=vim" alt="Vim" /></a>
-  <a href="https://www.visualstudio.com/" target="_blank" title="Visual Studio"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /></a>
-  <a href="https://vitejs.dev/" target="_blank" title="Vite"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
-  <a href="https://vitest.dev/" target="_blank" title="Vitest"><img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
-  <a href="https://vscodium.com/" target="_blank" title="VSCodium"><img src="https://skillicons.dev/icons?i=vscodium" alt="VSCodium" /></a>
-  <a href="https://vuejs.org/" target="_blank" title="Vue.js"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" /></a>
-  <a href="https://vuetifyjs.com/" target="_blank" title="Vuetify"><img src="https://skillicons.dev/icons?i=vuetify" alt="Vuetify" /></a>
-  <a href="https://webassembly.org/" target="_blank" title="WebAssembly"><img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly" /></a>
-  <a href="https://webflow.com/" target="_blank" title="Webflow"><img src="https://skillicons.dev/icons?i=webflow" alt="Webflow" /></a>
-  <a href="https://webpack.js.org/" target="_blank" title="Webpack"><img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" /></a>
-  <a href="https://www.jetbrains.com/webstorm/" target="_blank" title="WebStorm"><img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm" /></a>
-  <a href="https://windicss.org/" target="_blank" title="Windi CSS"><img src="https://skillicons.dev/icons?i=windicss" alt="Windi CSS" /></a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" title="Windows"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a>
-  <a href="https://wordpress.com/" target="_blank" title="WordPress"><img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" /></a>
-  <a href="https://workers.cloudflare.com/" target="_blank" title="Cloudflare Workers"><img src="https://skillicons.dev/icons?i=workers" alt="Cloudflare Workers" /></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" title="Adobe XD"><img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" /></a>
-  <a href="https://yarnpkg.com/" target="_blank" title="Yarn"><img src="https://skillicons.dev/icons?i=yarn" alt="Yarn" /></a>
-  <a href="https://yew.rs/" target="_blank" title="Yew"><img src="https://skillicons.dev/icons?i=yew" alt="Yew" /></a>
-  <a href="https://ziglang.org/" target="_blank" title="Zig"><img src="https://skillicons.dev/icons?i=zig" alt="Zig" /></a>
+  <a href="https://www.ableton.com/" target="_blank" rel="noopener noreferrer" title="Ableton"><img src="https://skillicons.dev/icons?i=ableton" alt="Ableton" /></a>
+  <a href="https://www.w3.org/TR/activitypub/" target="_blank" rel="noopener noreferrer" title="ActivityPub"><img src="https://skillicons.dev/icons?i=activitypub" alt="ActivityPub" /></a>
+  <a href="https://actix.rs/" target="_blank" rel="noopener noreferrer" title="Actix"><img src="https://skillicons.dev/icons?i=actix" alt="Actix" /></a>
+  <a href="https://adonisjs.com/" target="_blank" rel="noopener noreferrer" title="AdonisJS"><img src="https://skillicons.dev/icons?i=adonis" alt="AdonisJS" /></a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noopener noreferrer" title="After Effects"><img src="https://skillicons.dev/icons?i=ae" alt="After Effects" /></a>
+  <a href="https://aiscript.dev/" target="_blank" rel="noopener noreferrer" title="AiScript"><img src="https://skillicons.dev/icons?i=aiscript" alt="AiScript" /></a>
+  <a href="https://alpinejs.dev/" target="_blank" rel="noopener noreferrer" title="Alpine.js"><img src="https://skillicons.dev/icons?i=alpinejs" alt="Alpine.js" /></a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noopener noreferrer" title="Anaconda"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" /></a>
+  <a href="https://angular.io/" target="_blank" rel="noopener noreferrer" title="Angular"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noopener noreferrer" title="Ansible"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" /></a>
+  <a href="https://www.apollographql.com/" target="_blank" rel="noopener noreferrer" title="Apollo"><img src="https://skillicons.dev/icons?i=apollo" alt="Apollo" /></a>
+  <a href="https://www.apple.com/" target="_blank" rel="noopener noreferrer" title="Apple"><img src="https://skillicons.dev/icons?i=apple" alt="Apple" /></a>
+  <a href="https://appwrite.io/" target="_blank" rel="noopener noreferrer" title="Appwrite"><img src="https://skillicons.dev/icons?i=appwrite" alt="Appwrite" /></a>
+  <a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer" title="Arch Linux"><img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" /></a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer" title="Arduino"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" /></a>
+  <a href="https://astro.build/" target="_blank" rel="noopener noreferrer" title="Astro"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
+  <a href="https://atom.io/" target="_blank" rel="noopener noreferrer" title="Atom"><img src="https://skillicons.dev/icons?i=atom" alt="Atom" /></a>
+  <a href="https://www.adobe.com/products/audition.html" target="_blank" rel="noopener noreferrer" title="Audition"><img src="https://skillicons.dev/icons?i=au" alt="Audition" /></a>
+  <a href="https://www.autodesk.com/products/autocad/" target="_blank" rel="noopener noreferrer" title="AutoCAD"><img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD" /></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer" title="AWS"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+  <a href="https://www.azul.com/" target="_blank" rel="noopener noreferrer" title="Azul"><img src="https://skillicons.dev/icons?i=azul" alt="Azul" /></a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer" title="Azure"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>
+  <a href="https://babeljs.io/" target="_blank" rel="noopener noreferrer" title="Babel"><img src="https://skillicons.dev/icons?i=babel" alt="Babel" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer" title="Bash"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+  <a href="https://bevyengine.org/" target="_blank" rel="noopener noreferrer" title="Bevy"><img src="https://skillicons.dev/icons?i=bevy" alt="Bevy" /></a>
+  <a href="https://bitbucket.org/" target="_blank" rel="noopener noreferrer" title="Bitbucket"><img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" /></a>
+  <a href="https://www.blender.org/" target="_blank" rel="noopener noreferrer" title="Blender"><img src="https://skillicons.dev/icons?i=blender" alt="Blender" /></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+  <a href="https://www.freebsd.org/" target="_blank" rel="noopener noreferrer" title="FreeBSD"><img src="https://skillicons.dev/icons?i=bsd" alt="FreeBSD" /></a>
+  <a href="https://bun.sh/" target="_blank" rel="noopener noreferrer" title="Bun"><img src="https://skillicons.dev/icons?i=bun" alt="Bun" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer" title="C"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+  <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank" rel="noopener noreferrer" title="C#"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noopener noreferrer" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://crystal-lang.org/" target="_blank" rel="noopener noreferrer" title="Crystal"><img src="https://skillicons.dev/icons?i=crystal" alt="Crystal" /></a>
+  <a href="https://cassandra.apache.org/" target="_blank" rel="noopener noreferrer" title="Apache Cassandra"><img src="https://skillicons.dev/icons?i=cassandra" alt="Apache Cassandra" /></a>
+  <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noopener noreferrer" title="CLion"><img src="https://skillicons.dev/icons?i=clion" alt="CLion" /></a>
+  <a href="https://clojure.org/" target="_blank" rel="noopener noreferrer" title="Clojure"><img src="https://skillicons.dev/icons?i=clojure" alt="Clojure" /></a>
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noopener noreferrer" title="Cloudflare"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></a>
+  <a href="https://cmake.org/" target="_blank" rel="noopener noreferrer" title="CMake"><img src="https://skillicons.dev/icons?i=cmake" alt="CMake" /></a>
+  <a href="https://codepen.io/" target="_blank" rel="noopener noreferrer" title="CodePen"><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" /></a>
+  <a href="https://coffeescript.org/" target="_blank" rel="noopener noreferrer" title="CoffeeScript"><img src="https://skillicons.dev/icons?i=coffeescript" alt="CoffeeScript" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://www.cypress.io/" target="_blank" rel="noopener noreferrer" title="Cypress"><img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" /></a>
+  <a href="https://d3js.org/" target="_blank" rel="noopener noreferrer" title="D3.js"><img src="https://skillicons.dev/icons?i=d3" alt="D3.js" /></a>
+  <a href="https://dart.dev/" target="_blank" rel="noopener noreferrer" title="Dart"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
+  <a href="https://www.debian.org/" target="_blank" rel="noopener noreferrer" title="Debian"><img src="https://skillicons.dev/icons?i=debian" alt="Debian" /></a>
+  <a href="https://deno.land/" target="_blank" rel="noopener noreferrer" title="Deno"><img src="https://skillicons.dev/icons?i=deno" alt="Deno" /></a>
+  <a href="https://dev.to/" target="_blank" rel="noopener noreferrer" title="Dev.to"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" /></a>
+  <a href="https://discord.com/" target="_blank" rel="noopener noreferrer" title="Discord"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
+  <a href="https://discord.js.org/" target="_blank" rel="noopener noreferrer" title="Discord.js"><img src="https://skillicons.dev/icons?i=discordjs" alt="Discord.js" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer" title="Django"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noopener noreferrer" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" /></a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noopener noreferrer" title="DynamoDB"><img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" /></a>
+  <a href="https://www.eclipse.org/" target="_blank" rel="noopener noreferrer" title="Eclipse"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" /></a>
+  <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noopener noreferrer" title="Elasticsearch"><img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" /></a>
+  <a href="https://www.electronjs.org/" target="_blank" rel="noopener noreferrer" title="Electron"><img src="https://skillicons.dev/icons?i=electron" alt="Electron" /></a>
+  <a href="https://elixir-lang.org/" target="_blank" rel="noopener noreferrer" title="Elixir"><img src="https://skillicons.dev/icons?i=elixir" alt="Elixir" /></a>
+  <a href="https://elysia.sh/" target="_blank" rel="noopener noreferrer" title="Elysia"><img src="https://skillicons.dev/icons?i=elysia" alt="Elysia" /></a>
+  <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noopener noreferrer" title="Emacs"><img src="https://skillicons.dev/icons?i=emacs" alt="Emacs" /></a>
+  <a href="https://emberjs.com/" target="_blank" rel="noopener noreferrer" title="Ember.js"><img src="https://skillicons.dev/icons?i=ember" alt="Ember.js" /></a>
+  <a href="https://emotion.sh/" target="_blank" rel="noopener noreferrer" title="Emotion"><img src="https://skillicons.dev/icons?i=emotion" alt="Emotion" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer" title="Express"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>
+  <a href="https://www.w3.org/TR/activitypub/" target="_blank" rel="noopener noreferrer" title="Fediverse"><img src="https://skillicons.dev/icons?i=fediverse" alt="Fediverse" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer" title="Figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer" title="Flask"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
+  <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+  <a href="https://www.forth.com/" target="_blank" rel="noopener noreferrer" title="Forth"><img src="https://skillicons.dev/icons?i=forth" alt="Forth" /></a>
+  <a href="https://fortran-lang.org/" target="_blank" rel="noopener noreferrer" title="Fortran"><img src="https://skillicons.dev/icons?i=fortran" alt="Fortran" /></a>
+  <a href="https://www.yoyogames.com/gamemaker" target="_blank" rel="noopener noreferrer" title="GameMaker Studio"><img src="https://skillicons.dev/icons?i=gamemakerstudio" alt="GameMaker Studio" /></a>
+  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noopener noreferrer" title="Gatsby"><img src="https://skillicons.dev/icons?i=gatsby" alt="Gatsby" /></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer" title="Google Cloud"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
+  <a href="https://gitlab.com/" target="_blank" rel="noopener noreferrer" title="GitLab"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /></a>
+  <a href="https://www.gmail.com/" target="_blank" rel="noopener noreferrer" title="Gmail"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+  <a href="https://cucumber.io/docs/gherkin/" target="_blank" rel="noopener noreferrer" title="Gherkin"><img src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin" /></a>
+  <a href="https://go.dev/" target="_blank" rel="noopener noreferrer" title="Go"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
+  <a href="https://gradle.org/" target="_blank" rel="noopener noreferrer" title="Gradle"><img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" /></a>
+  <a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer" title="Godot"><img src="https://skillicons.dev/icons?i=godot" alt="Godot" /></a>
+  <a href="https://grafana.com/" target="_blank" rel="noopener noreferrer" title="Grafana"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" /></a>
+  <a href="https://graphql.org/" target="_blank" rel="noopener noreferrer" title="GraphQL"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></a>
+  <a href="https://www.gtk.org/" target="_blank" rel="noopener noreferrer" title="GTK"><img src="https://skillicons.dev/icons?i=gtk" alt="GTK" /></a>
+  <a href="https://gulpjs.com/" target="_blank" rel="noopener noreferrer" title="Gulp"><img src="https://skillicons.dev/icons?i=gulp" alt="Gulp" /></a>
+  <a href="https://www.haskell.org/" target="_blank" rel="noopener noreferrer" title="Haskell"><img src="https://skillicons.dev/icons?i=haskell" alt="Haskell" /></a>
+  <a href="https://haxe.org/" target="_blank" rel="noopener noreferrer" title="Haxe"><img src="https://skillicons.dev/icons?i=haxe" alt="Haxe" /></a>
+  <a href="https://haxeflixel.com/" target="_blank" rel="noopener noreferrer" title="HaxeFlixel"><img src="https://skillicons.dev/icons?i=haxeflixel" alt="HaxeFlixel" /></a>
+  <a href="https://www.heroku.com/" target="_blank" rel="noopener noreferrer" title="Heroku"><img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" /></a>
+  <a href="https://hibernate.org/" target="_blank" rel="noopener noreferrer" title="Hibernate"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" /></a>
+  <a href="https://html.spec.whatwg.org/" target="_blank" rel="noopener noreferrer" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://htmx.org/" target="_blank" rel="noopener noreferrer" title="HTMX"><img src="https://skillicons.dev/icons?i=htmx" alt="HTMX" /></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer" title="IntelliJ IDEA"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></a>
+  <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://ipfs.tech/" target="_blank" rel="noopener noreferrer" title="IPFS"><img src="https://skillicons.dev/icons?i=ipfs" alt="IPFS" /></a>
+  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noopener noreferrer" title="Jenkins"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" /></a>
+  <a href="https://jestjs.io/" target="_blank" rel="noopener noreferrer" title="Jest"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" /></a>
+  <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer" title="jQuery"><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" /></a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noopener noreferrer" title="Apache Kafka"><img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka" /></a>
+  <a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer" title="Kali Linux"><img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" /></a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer" title="Kotlin"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
+  <a href="https://ktor.io/" target="_blank" rel="noopener noreferrer" title="Ktor"><img src="https://skillicons.dev/icons?i=ktor" alt="Ktor" /></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer" title="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
+  <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noopener noreferrer" title="LaTeX"><img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" /></a>
+  <a href="https://lesscss.org/" target="_blank" rel="noopener noreferrer" title="Less"><img src="https://skillicons.dev/icons?i=less" alt="Less" /></a>
+  <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://lit.dev/" target="_blank" rel="noopener noreferrer" title="Lit"><img src="https://skillicons.dev/icons?i=lit" alt="Lit" /></a>
+  <a href="https://www.lua.org/" target="_blank" rel="noopener noreferrer" title="Lua"><img src="https://skillicons.dev/icons?i=lua" alt="Lua" /></a>
+  <a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer" title="Markdown"><img src="https://skillicons.dev/icons?i=md" alt="Markdown" /></a>
+  <a href="https://mastodon.social/" target="_blank" rel="noopener noreferrer" title="Mastodon"><img src="https://skillicons.dev/icons?i=mastodon" alt="Mastodon" /></a>
+  <a href="https://mui.com/" target="_blank" rel="noopener noreferrer" title="Material-UI"><img src="https://skillicons.dev/icons?i=materialui" alt="Material-UI" /></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noopener noreferrer" title="MATLAB"><img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" /></a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noopener noreferrer" title="Maven"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" /></a>
+  <a href="https://www.mint-lang.dev/" target="_blank" rel="noopener noreferrer" title="Mint"><img src="https://skillicons.dev/icons?i=mint" alt="Mint" /></a>
+  <a href="https://misskey.io/" target="_blank" rel="noopener noreferrer" title="Misskey"><img src="https://skillicons.dev/icons?i=misskey" alt="Misskey" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://neovim.io/" target="_blank" rel="noopener noreferrer" title="Neovim"><img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" /></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer" title="NestJS"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /></a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer" title="Netlify"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+  <a href="https://nginx.org/" target="_blank" rel="noopener noreferrer" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
+  <a href="https://nim-lang.org/" target="_blank" rel="noopener noreferrer" title="Nim"><img src="https://skillicons.dev/icons?i=nim" alt="Nim" /></a>
+  <a href="https://nixos.org/" target="_blank" rel="noopener noreferrer" title="NixOS"><img src="https://skillicons.dev/icons?i=nix" alt="NixOS" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://www.notion.so/" target="_blank" rel="noopener noreferrer" title="Notion"><img src="https://skillicons.dev/icons?i=notion" alt="Notion" /></a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer" title="npm"><img src="https://skillicons.dev/icons?i=npm" alt="npm" /></a>
+  <a href="https://nuxt.com/" target="_blank" rel="noopener noreferrer" title="Nuxt.js"><img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt.js" /></a>
+  <a href="https://obsidian.md/" target="_blank" rel="noopener noreferrer" title="Obsidian"><img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" /></a>
+  <a href="https://ocaml.org/" target="_blank" rel="noopener noreferrer" title="OCaml"><img src="https://skillicons.dev/icons?i=ocaml" alt="OCaml" /></a>
+  <a href="https://www.gnu.org/software/octave/" target="_blank" rel="noopener noreferrer" title="Octave"><img src="https://skillicons.dev/icons?i=octave" alt="Octave" /></a>
+  <a href="https://opencv.org/" target="_blank" rel="noopener noreferrer" title="OpenCV"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" /></a>
+  <a href="https://www.openshift.com/" target="_blank" rel="noopener noreferrer" title="OpenShift"><img src="https://skillicons.dev/icons?i=openshift" alt="OpenShift" /></a>
+  <a href="https://www.openstack.org/" target="_blank" rel="noopener noreferrer" title="OpenStack"><img src="https://skillicons.dev/icons?i=openstack" alt="OpenStack" /></a>
+  <a href="https://p5js.org/" target="_blank" rel="noopener noreferrer" title="p5.js"><img src="https://skillicons.dev/icons?i=p5js" alt="p5.js" /></a>
+  <a href="https://www.perl.org/" target="_blank" rel="noopener noreferrer" title="Perl"><img src="https://skillicons.dev/icons?i=perl" alt="Perl" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer" title="Photoshop"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" /></a>
+  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noopener noreferrer" title="PhpStorm"><img src="https://skillicons.dev/icons?i=phpstorm" alt="PhpStorm" /></a>
+  <a href="https://pinia.vuejs.org/" target="_blank" rel="noopener noreferrer" title="Pinia"><img src="https://skillicons.dev/icons?i=pinia" alt="Pinia" /></a>
+  <a href="https://pkl-lang.org/" target="_blank" rel="noopener noreferrer" title="Pkl"><img src="https://skillicons.dev/icons?i=pkl" alt="Pkl" /></a>
+  <a href="https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs" target="_blank" rel="noopener noreferrer" title="Plan 9"><img src="https://skillicons.dev/icons?i=plan9" alt="Plan 9" /></a>
+  <a href="https://www.planetscale.com/" target="_blank" rel="noopener noreferrer" title="PlanetScale"><img src="https://skillicons.dev/icons?i=planetscale" alt="PlanetScale" /></a>
+  <a href="https://pnpm.io/" target="_blank" rel="noopener noreferrer" title="pnpm"><img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer" title="Postman"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noopener noreferrer" title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noopener noreferrer" title="Premiere"><img src="https://skillicons.dev/icons?i=pr" alt="Premiere" /></a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noopener noreferrer" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" /></a>
+  <a href="https://processing.org/" target="_blank" rel="noopener noreferrer" title="Processing"><img src="https://skillicons.dev/icons?i=processing" alt="Processing" /></a>
+  <a href="https://prometheus.io/" target="_blank" rel="noopener noreferrer" title="Prometheus"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" /></a>
+  <a href="https://pugjs.org/" target="_blank" rel="noopener noreferrer" title="Pug"><img src="https://skillicons.dev/icons?i=pug" alt="Pug" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer" title="PyCharm"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" title="Python"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>
+  <a href="https://www.qt.io/" target="_blank" rel="noopener noreferrer" title="Qt"><img src="https://skillicons.dev/icons?i=qt" alt="Qt" /></a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer" title="R"><img src="https://skillicons.dev/icons?i=r" alt="R" /></a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noopener noreferrer" title="RabbitMQ"><img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" /></a>
+  <a href="https://rubyonrails.org/" target="_blank" rel="noopener noreferrer" title="Ruby on Rails"><img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" /></a>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noopener noreferrer" title="Raspberry Pi"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://reactivex.io/" target="_blank" rel="noopener noreferrer" title="ReactiveX"><img src="https://skillicons.dev/icons?i=reactivex" alt="ReactiveX" /></a>
+  <a href="https://www.redhat.com/" target="_blank" rel="noopener noreferrer" title="Red Hat"><img src="https://skillicons.dev/icons?i=redhat" alt="Red Hat" /></a>
+  <a href="https://redis.io/" target="_blank" rel="noopener noreferrer" title="Redis"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
+  <a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer" title="Redux"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>
+  <a href="https://www.regular-expressions.info/" target="_blank" rel="noopener noreferrer" title="Regex"><img src="https://skillicons.dev/icons?i=regex" alt="Regex" /></a>
+  <a href="https://remix.run/" target="_blank" rel="noopener noreferrer" title="Remix"><img src="https://skillicons.dev/icons?i=remix" alt="Remix" /></a>
+  <a href="https://replit.com/" target="_blank" rel="noopener noreferrer" title="Replit"><img src="https://skillicons.dev/icons?i=replit" alt="Replit" /></a>
+  <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noopener noreferrer" title="Rider"><img src="https://skillicons.dev/icons?i=rider" alt="Rider" /></a>
+  <a href="https://www.roblox.com/create" target="_blank" rel="noopener noreferrer" title="Roblox Studio"><img src="https://skillicons.dev/icons?i=robloxstudio" alt="Roblox Studio" /></a>
+  <a href="https://www.rocketlanguage.org/" target="_blank" rel="noopener noreferrer" title="Rocket"><img src="https://skillicons.dev/icons?i=rocket" alt="Rocket" /></a>
+  <a href="https://rollupjs.org/" target="_blank" rel="noopener noreferrer" title="Rollup"><img src="https://skillicons.dev/icons?i=rollupjs" alt="Rollup" /></a>
+  <a href="https://www.ros.org/" target="_blank" rel="noopener noreferrer" title="ROS"><img src="https://skillicons.dev/icons?i=ros" alt="ROS" /></a>
+  <a href="https://www.ruby-lang.org/" target="_blank" rel="noopener noreferrer" title="Ruby"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" /></a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noopener noreferrer" title="Rust"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer" title="Sass"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" /></a>
+  <a href="https://spring.io/" target="_blank" rel="noopener noreferrer" title="Spring"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" /></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
+  <a href="https://stackoverflow.com/" target="_blank" rel="noopener noreferrer" title="Stack Overflow"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" /></a>
+  <a href="https://styled-components.com/" target="_blank" rel="noopener noreferrer" title="Styled Components"><img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components" /></a>
+  <a href="https://www.sublimetext.com/" target="_blank" rel="noopener noreferrer" title="Sublime Text"><img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text" /></a>
+  <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
+  <a href="https://www.scala-lang.org/" target="_blank" rel="noopener noreferrer" title="Scala"><img src="https://skillicons.dev/icons?i=scala" alt="Scala" /></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer" title="Scikit-Learn"><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" /></a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer" title="Selenium"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" /></a>
+  <a href="https://sentry.io/" target="_blank" rel="noopener noreferrer" title="Sentry"><img src="https://skillicons.dev/icons?i=sentry" alt="Sentry" /></a>
+  <a href="https://sequelize.org/" target="_blank" rel="noopener noreferrer" title="Sequelize"><img src="https://skillicons.dev/icons?i=sequelize" alt="Sequelize" /></a>
+  <a href="https://www.sketchup.com/" target="_blank" rel="noopener noreferrer" title="SketchUp"><img src="https://skillicons.dev/icons?i=sketchup" alt="SketchUp" /></a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noopener noreferrer" title="Solidity"><img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" /></a>
+  <a href="https://www.solidjs.com/" target="_blank" rel="noopener noreferrer" title="Solid.js"><img src="https://skillicons.dev/icons?i=solidjs" alt="Solid.js" /></a>
+  <a href="https://svelte.dev/" target="_blank" rel="noopener noreferrer" title="Svelte"><img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" /></a>
+  <a href="https://www.w3.org/Graphics/SVG/" target="_blank" rel="noopener noreferrer" title="SVG"><img src="https://skillicons.dev/icons?i=svg" alt="SVG" /></a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noopener noreferrer" title="Swift"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" /></a>
+  <a href="https://symfony.com/" target="_blank" rel="noopener noreferrer" title="Symfony"><img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+  <a href="https://tauri.app/" target="_blank" rel="noopener noreferrer" title="Tauri"><img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noopener noreferrer" title="Terraform"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
+  <a href="https://threejs.org/" target="_blank" rel="noopener noreferrer" title="Three.js"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noopener noreferrer" title="Ubuntu"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /></a>
+  <a href="https://unity.com/" target="_blank" rel="noopener noreferrer" title="Unity"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" /></a>
+  <a href="https://www.unrealengine.com/" target="_blank" rel="noopener noreferrer" title="Unreal Engine"><img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" /></a>
+  <a href="https://vlang.io/" target="_blank" rel="noopener noreferrer" title="V"><img src="https://skillicons.dev/icons?i=v" alt="V" /></a>
+  <a href="https://wiki.gnome.org/Projects/Vala" target="_blank" rel="noopener noreferrer" title="Vala"><img src="https://skillicons.dev/icons?i=vala" alt="Vala" /></a>
+  <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
+  <a href="https://www.vim.org/" target="_blank" rel="noopener noreferrer" title="Vim"><img src="https://skillicons.dev/icons?i=vim" alt="Vim" /></a>
+  <a href="https://www.visualstudio.com/" target="_blank" rel="noopener noreferrer" title="Visual Studio"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /></a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noopener noreferrer" title="Vite"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
+  <a href="https://vitest.dev/" target="_blank" rel="noopener noreferrer" title="Vitest"><img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+  <a href="https://vscodium.com/" target="_blank" rel="noopener noreferrer" title="VSCodium"><img src="https://skillicons.dev/icons?i=vscodium" alt="VSCodium" /></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer" title="Vue.js"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" /></a>
+  <a href="https://vuetifyjs.com/" target="_blank" rel="noopener noreferrer" title="Vuetify"><img src="https://skillicons.dev/icons?i=vuetify" alt="Vuetify" /></a>
+  <a href="https://webassembly.org/" target="_blank" rel="noopener noreferrer" title="WebAssembly"><img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly" /></a>
+  <a href="https://webflow.com/" target="_blank" rel="noopener noreferrer" title="Webflow"><img src="https://skillicons.dev/icons?i=webflow" alt="Webflow" /></a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noopener noreferrer" title="Webpack"><img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" /></a>
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noopener noreferrer" title="WebStorm"><img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm" /></a>
+  <a href="https://windicss.org/" target="_blank" rel="noopener noreferrer" title="Windi CSS"><img src="https://skillicons.dev/icons?i=windicss" alt="Windi CSS" /></a>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noopener noreferrer" title="Windows"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a>
+  <a href="https://wordpress.com/" target="_blank" rel="noopener noreferrer" title="WordPress"><img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" /></a>
+  <a href="https://workers.cloudflare.com/" target="_blank" rel="noopener noreferrer" title="Cloudflare Workers"><img src="https://skillicons.dev/icons?i=workers" alt="Cloudflare Workers" /></a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noopener noreferrer" title="Adobe XD"><img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" /></a>
+  <a href="https://yarnpkg.com/" target="_blank" rel="noopener noreferrer" title="Yarn"><img src="https://skillicons.dev/icons?i=yarn" alt="Yarn" /></a>
+  <a href="https://yew.rs/" target="_blank" rel="noopener noreferrer" title="Yew"><img src="https://skillicons.dev/icons?i=yew" alt="Yew" /></a>
+  <a href="https://ziglang.org/" target="_blank" rel="noopener noreferrer" title="Zig"><img src="https://skillicons.dev/icons?i=zig" alt="Zig" /></a>
 </div>
 
 <hr />
