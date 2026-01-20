@@ -30,7 +30,7 @@ I'm a passionate pragmatic developer who loves building problem-solving applicat
 
 <hr />
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
 <div align="center">
   <a href="https://www.ableton.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=ableton" alt="Ableton" title="Ableton" /></a>
