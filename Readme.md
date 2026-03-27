@@ -378,9 +378,9 @@ I'm a passionate pragmatic developer who loves building problem-solving applicat
   <br />
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=mateusz-piotrowski&theme=transparent&hide_border=false" alt="GitHub Streak">
-    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=mateusz-piotrowski&theme=transparent&hide_border=false" alt="GitHub Streak">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=mateusz-piotrowski&theme=transparent&hide_border=false" height="200px" alt="GitHub Streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mateusz-piotrowski&theme=transparent&hide_border=false" alt="GitHub Streak">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mateusz-piotrowski&theme=transparent&hide_border=false" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=mateusz-piotrowski&theme=transparent&hide_border=false" height="200px" alt="GitHub Streak">
   </picture>
  
   <br />
