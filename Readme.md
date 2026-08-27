@@ -370,25 +370,25 @@ I'm a passionate pragmatic developer who loves building problem-solving applicat
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=mateusz-piotrowski&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff" alt="GitHub Stats">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=mateusz-piotrowski&show_icons=true&count_private=true&theme=transparent" alt="GitHub Stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=mateusz-piotrowski&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=mateusz-piotrowski&show_icons=true&count_private=true&theme=transparent">
     <img src="https://github-readme-stats-six-seven.vercel.app/api?username=mateusz-piotrowski&show_icons=true&count_private=true&theme=transparent" height="200px" alt="GitHub Stats">
   </picture>
   
   <br />
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mateusz-piotrowski&theme=transparent&hide_border=false" alt="GitHub Streak">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mateusz-piotrowski&theme=transparent&hide_border=false" alt="GitHub Streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mateusz-piotrowski&theme=transparent&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mateusz-piotrowski&theme=transparent&hide_border=false">
     <img src="https://streak-stats.demolab.com/?user=mateusz-piotrowski&theme=transparent&hide_border=false" height="200px" alt="GitHub Streak">
   </picture>
  
   <br />
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=mateusz-piotrowski&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff" alt="Top Languages">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=mateusz-piotrowski&layout=compact&langs_count=8&theme=transparent" alt="Top Languages">
-    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=mateusz-piotrowski&layout=compact&langs_count=8&theme=transparent" height="200px" alt="Top Languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=mateusz-piotrowski&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=mateusz-piotrowski&layout=compact&langs_count=8&theme=transparent">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=mateusz-piotrowski&layout=compact&langs_count=8&theme=transparent" height="200px">
   </picture>
 
 </div>
